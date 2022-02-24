@@ -1,5 +1,7 @@
 ## <div align="center"> Olá, eu sou o Vinicius!
-    
+    Estou cursando Análise e Desenvolvimento de Sistemas, aprendendo e realizando projetos dentro da incrivel área de tecnologia.
+<br>
+<br>    
 <div align="center">
     <a href="https://github.com/ViniciusOMorais">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusOMorais&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
