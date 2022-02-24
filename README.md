@@ -1,5 +1,5 @@
 ## <div align="center"> Olá, eu sou o Vinicius!
-    Estou cursando Análise e Desenvolvimento de Sistemas, aprendendo e realizando projetos dentro da incrivel área de tecnologia.
+Estou cursando Análise e Desenvolvimento de Sistemas, aprendendo e realizando projetos dentro da incrivel área de tecnologia.
 <br>
 <br>    
 <div align="center">
