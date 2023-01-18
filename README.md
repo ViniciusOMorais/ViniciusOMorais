@@ -1,27 +1,17 @@
-## <div align="center"> Olá, eu sou o Vinicius!
-  <div align="center"> <h4>Estou cursando Análise e Desenvolvimento de Sistemas, aprendendo e realizando projetos.</h4>
-<br>
-<br>    
-<div align="center">
-    <a href="https://github.com/ViniciusOMorais">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusOMorais&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOMorais&layout=compact&langs_count=7&theme=dark"/>
-   
-</div>
-  
-##
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vini-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Vini-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
-<div align="center">  
-  <a href = "mailto:Viniciusoliveira_morais@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/vinicius-de-oliveira-morais-596816165?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhpgM99GtTUOudG1ldBdCiA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+<h1 align="center">Olá seja bem vindo, Eu sou o Vinicius</h1>
+<h3 align="center">Apaixonado por Análise de Dados e Desenvolvimento de Sistemas</h3>
+
+- Atualmente estou estudando **Power Bi, MySQL e Python.**
+- Estou no 3ºSemeste de Análise e Desenvolvimento de Sistemas EAD
+- Você pode me encontrar no **viniciusoliveira_morais@outlook.com**
+
+- Conheça meu curriculo profissional através do meu Linkedin: [https://www.linkedin.com/in/vinicius-o-morais/](https://www.linkedin.com/in/vinicius-o-morais/)
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinicius-de-oliveira-morais-596816165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinicius-de-oliveira-morais-596816165/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
