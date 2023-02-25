@@ -1,5 +1,5 @@
 <h1 align="center">Olá seja bem vindo, Eu sou o Vinicius</h1>
-<h3 align="center">Apaixonado por Análise de Dados e Desenvolvimento de Sistemas</h3>
+<h3 align="center">Apaixonado por Análise de Dados e Automatização de Sistemas</h3>
 
 - Atualmente estou estudando **Power Bi, MySQL e Python.**
 - Estou no 3ºSemestre de Análise e Desenvolvimento de Sistemas EAD
